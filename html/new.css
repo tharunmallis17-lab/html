@@ -1,0 +1,79 @@
+
+body {
+        background-color: brown;
+ }
+ h1{
+    
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+ }
+ p{
+   
+     font-style: italic;
+ }
+ p span{
+    font-weight:bold;
+ }
+.intro{
+    float: center;
+    background-image: url('wallpaper.jfif');
+    background-color: aquamarine;
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+.intro h1{
+   border-top: dashed; 
+ border-left: solid;
+ border-right:solid ;
+ border-bottom: dashed;
+  border-color: red;
+  padding: 5px;
+}
+ .intro p{
+    color:red ;
+    font-size:20px;
+ }
+ .intro button{
+     border-top: dashed; 
+     border-left: solid;
+     border-right:solid ;
+     border-bottom: dashed;
+     border-color: red;
+     border-width:5px;
+    
+   
+ } 
+ .intro img{
+      margin :50px 50px 50px 50px;
+ }
+ .testimonial{
+    background-color: aquamarine;
+    padding:30px;
+    width: 650px;
+    max-width:500px;
+    height: 100px;
+ }
+ .test {
+  border:2px solid black;
+  outline:5px solid green;
+  background-color: blue;
+  outline-style: dashed;
+
+  
+ }
+.link a{
+   color:red;
+}
+.link a:link{
+   color:hotpink;
+}
+.link a:visited{
+   color:green;
+}
+.link a:hover{
+   color:blue;
+}
+.link a:active{
+   color:black;
+}

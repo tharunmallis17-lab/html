@@ -1,0 +1,18 @@
+body{
+    background:linear-gradient(to right, rgb(33, 239, 60),rgb(36, 218, 241));
+    align-self: center;
+}
+
+.what{
+    background-color: white;
+    width:30%;
+    border-radius: 20px;
+    align-self: center;
+    
+}
+.what h2{
+   text-align: left;
+}
+input{
+     width: 300px;
+}
