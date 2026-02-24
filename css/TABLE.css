@@ -1,0 +1,6 @@
+th,td{
+    border-color:solid black;
+    border-width: 5px;
+    border-style: solid;
+    padding: 20px;
+}

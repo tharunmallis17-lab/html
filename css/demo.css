@@ -1,0 +1,11 @@
+div{
+    background-color: black;
+    color: white;
+   
+}
+h2,ul,li{
+    display: inline-block;
+}
+h2{
+    padding-right: 300PX;
+}

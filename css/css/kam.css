@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+li{
+    list-style:none;
+    padding-right:25px;
+}
+ul{
+     text-align:center;
+}
+.total{
+    text-align:center;
+    background:linear-gradient(to right,white,white,white,white,white,white,purple,white,white,white,white,white,white);
+    width:500px;
+    height:100px;
+    margin-left: 350px;
+}
+.box1{
+    background-color: aqua;
+    border-style:solid;
+    border-color: black;
+    border-radius:10px;
+    border-width: 2px;
+    display:inline-block;
+    margin:10px;
+}
+.box2{
+    background-color: aqua;
+    border-style:solid;
+    border-color: black;
+    border-radius:10px;
+    border-width: 2px;
+    display:inline-block;
+    margin:10px;
+     
+}
+li:hover{
+    color: white;
+}
